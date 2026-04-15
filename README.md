@@ -1,5 +1,5 @@
 # Total Recall
-## Catalog of AI Knowledge Retrieval, Memory & RAG Systems (Last updated 2025-04-13)
+Catalog of AI Knowledge Retrieval, Memory & RAG Systems (Last updated 2025-04-13)
 
 ## What This Is
 
